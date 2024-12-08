@@ -1,5 +1,5 @@
 # **Task 1**
-This repository contains the analysis of a solar dataset as part of Task 1. The focus is on performing Exploratory Data Analysis (EDA) to extract insights, visualize patterns, and clean the data for further use.
+This repository hosts the code for analyzing and visualizing a tenx given dataset. The project is divided into two main tasks, each residing in a separate branch. Follow the instructions below to explore each task.
 ---
 ## **Steps Completed**
 
@@ -26,3 +26,5 @@ This repository contains the analysis of a solar dataset as part of Task 1. The 
    git clone tenx_week_1
    cd tenx_week_1
 pip install -r requirements.txt
+
+
