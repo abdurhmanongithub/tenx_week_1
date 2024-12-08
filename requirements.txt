@@ -1,5 +1,6 @@
+streamlit
 pandas
-scipy
+numpy
 matplotlib
-pip install matplotlib
 seaborn
+scipy
