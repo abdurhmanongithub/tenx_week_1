@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true
+    }
+}
