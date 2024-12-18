@@ -1,6 +1,38 @@
-pandas
-numpy
-matplotlib
-seaborn
-nltk
-scikit-learn
+# Data Manipulation
+pandas==2.0.3
+numpy==1.26.0
+
+# Quantitative Analysis Libraries
+pynance==0.2.0
+TA-Lib==0.4.0
+
+# Visualization Libraries
+matplotlib==3.8.0
+seaborn==0.12.2
+plotly==5.17.0
+
+# Sentiment Analysis Libraries
+nltk==3.8.1
+textblob==0.17.1
+vaderSentiment==3.3.2
+
+# Data Parsing and APIs
+requests==2.31.0
+beautifulsoup4==4.12.2
+yfinance==0.2.31
+
+# Statistical Analysis
+scipy==1.11.2
+scikit-learn==1.3.2
+statsmodels==0.14.0
+
+# Correlation and Analysis
+pandas-datareader==0.10.0
+
+# Jupyter Notebook Support
+jupyter==1.0.0
+ipykernel==6.25.2
+
+# Additional Utility Libraries
+datetime==5.2
+tqdm==4.66.1
